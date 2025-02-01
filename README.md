@@ -23,6 +23,20 @@ I am a **2nd-year student at VIT Vellore** with a strong foundation in programmi
 - Written technical articles on **Medium**, sharing insights on programming, development, and problem-solving  
 - Familiar with **computer architecture**, **low-level programming**, and **hardware description languages**  
 
+---
+
+## Notable Projects  
+
+### **Fitness App (C++)**  
+A **command-line fitness tracking application** that allows users to log their physical activities, calculate calories burned, and determine BMI.  
+- Implements **object-oriented programming** principles like **inheritance and polymorphism**.  
+- Supports **step counting, BMI calculation, cycling, and swimming activity tracking**.  
+- Includes a **basic authentication system** for user login and account creation.  
+
+This project showcases my ability to build **structured, interactive applications in C++** while focusing on user experience and efficiency.  
+
+---
+
 ## What I'm Working On  
 - Exploring deeper topics in **system design**, **competitive programming**, and **full-stack development**  
 - Writing more articles on **Medium** to contribute to the developer community  
